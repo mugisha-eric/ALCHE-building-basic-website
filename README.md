@@ -48,13 +48,6 @@ lagon-trails/
 
 There is no back end. On a valid submit, JavaScript prevents the page reload, shows a confirmation message with the visitor's name and email, and resets the form. To make it send real messages, connect the form to a service or server endpoint.
 
-## Before you submit: customise
-
-- [ ] Replace `[Your Name]`, the bio, email and social links in `about.html`
-- [ ] Replace `images/avatar.svg` with your own photo and update the `alt` text
-- [ ] Verify facts (festival dates, cyclone season, UNESCO details) against the official links
-- [ ] Complete the placeholders in the Sources and Credits document
-
 ## Credits
 
 - Illustrations: original SVG artwork created for this project.
