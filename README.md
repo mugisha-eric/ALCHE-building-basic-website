@@ -27,6 +27,12 @@ lagon-trails/
 └── README.md
 ```
 
+## Demo and Screenshoots
+![the image](screenshoot1.jpg)
+
+## Explore the Island
+![the image](screenshoot2.jpg)
+
 ## How to run
 
 1. Unzip the project.
